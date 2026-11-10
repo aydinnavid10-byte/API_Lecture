@@ -10,9 +10,7 @@ def handleGetData():
     # ..... ada proses yang berjalan
 
     return {
-        "massage": "hello ex!",
-        "address": "Nagrak, Cianjur",
-        "date": "9-April-2008"
+        "massage": "never give up, dont surrender and trust to Allah"
     }
 
 #endpoint baru -> getdata from csv
